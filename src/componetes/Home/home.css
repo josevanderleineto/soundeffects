@@ -1,8 +1,21 @@
-.home  {
-    width: 100%;
-    height: 100%;
+.home {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 700px;
+  justify-content: center;
+  align-items: center;
 }
 
 .texto {
-    padding: 30px;
+  padding: 30px;
+}
+
+.logo {
+  padding-left: 40%;
+  padding-right: 50%;
+  
+}
+
+.logo-projeto {
+  width: 200px;
 }

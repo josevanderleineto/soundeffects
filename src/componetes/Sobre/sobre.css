@@ -1,7 +1,9 @@
-.texto {
+#sobre {
+    padding-left: 10%;
+    padding-right: 10%;
     text-align: justify;
-    padding: 50px;
 }
+
 
 span {
     font-weight: 900;
