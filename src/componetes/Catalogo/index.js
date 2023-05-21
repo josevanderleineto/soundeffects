@@ -5,6 +5,7 @@ const Catalogo = () => {
     <div>
       <h1>Catálogo</h1>
       <ListaArquivos />
+
     </div>
   );
 }

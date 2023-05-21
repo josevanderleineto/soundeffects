@@ -44,7 +44,7 @@
   }
   
   .button{
-    background-color: #29335c;
+    background-color: var(--mainColor);
     width: 40rem;
     border-radius: 4px;
     border: 0;
